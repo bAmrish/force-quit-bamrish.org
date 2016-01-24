@@ -1,0 +1,7 @@
+{
+	"darkIcon" : {
+		"type": "checkbox",
+		"default": false,
+		"description": "Use Dark Icon. If unchecked use a light icon."
+	}
+}
