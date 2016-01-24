@@ -1,5 +1,5 @@
 {
-	"uuid": "force-quit@immortal.org",
+	"uuid": "force-quit@bamrish.org",
 	"name": "Force Quite Applet", 
 	"description" : "Click on this applet to force quit any window immediately.",
 	"icon": "force-exit",
