@@ -1,0 +1,7 @@
+{
+	"uuid": "force-quit@immortal.org",
+	"name": "Force Quite Applet", 
+	"description" : "Click on this applet to force quit any window immediately.",
+	"icon": "force-exit",
+	"max-instance": -1
+}	
